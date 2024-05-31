@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirstApp</string>
+    <string name="Email">Email :</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="Name">Name :</string>
+    <string name="enter_name">Enter Your Name</string>
 </resources>
